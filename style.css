@@ -66,21 +66,50 @@ a:hover{
   background-color: #FFCC00;
 }
 
-/* Mauritius flag inspired colors */
+/* Special country color adjustments */
 .red {
-  background-color: #EA2839;
+  background-color: #D90012;
 }
 
 .blue {
-  background-color: #1F2A7A;
+  background-color: #0033A0;
 }
 
 .yellow {
-  background-color: #F4D35E;
+  background-color: #FCD116;
 }
 
 .green {
-  background-color: #00A651;
+  background-color: #009B3A;
 }
 
-/* Monaco and Netherlands use standard red/white/blue blocks */
+/* Sierra Leone - green, white, blue */
+.green {
+  background-color: #1EB53A;
+}
+
+.blue {
+  background-color: #0C1C8C;
+}
+
+/* Ukraine - blue, yellow */
+.blue {
+  background-color: #005BBB;
+}
+
+.yellow {
+  background-color: #FFD500;
+}
+
+/* Yemen - red, white, black */
+.red {
+  background-color: #CE1126;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+.black {
+  background-color: #000000;
+}
