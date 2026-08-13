@@ -27,8 +27,8 @@ a:hover{
     border-style: solid;
 }
 
-/*Armenia*/
-.red, .blue, .orange {
+/*Shared flag stripes*/
+.red, .blue, .orange, .green, .yellow, .white, .black, .gold {
   width: 300px;
   height: 60px;
   margin: 0;
@@ -46,13 +46,41 @@ a:hover{
   background-color: #F2A800;
 }
 
-/*Austria*/
-.red, .white {
-  width: 300px;
-  height: 60px;
-  margin: 0;
+.green {
+  background-color: #009B3A;
 }
 
-.red {
-  background-color: #D90012;
+.yellow {
+  background-color: #FCD116;
 }
+
+.white {
+  background-color: #FFFFFF;
+}
+
+.black {
+  background-color: #000000;
+}
+
+.gold {
+  background-color: #FFCC00;
+}
+
+/* Mauritius flag inspired colors */
+.red {
+  background-color: #EA2839;
+}
+
+.blue {
+  background-color: #1F2A7A;
+}
+
+.yellow {
+  background-color: #F4D35E;
+}
+
+.green {
+  background-color: #00A651;
+}
+
+/* Monaco and Netherlands use standard red/white/blue blocks */
